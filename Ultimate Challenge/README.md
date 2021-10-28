@@ -6,7 +6,7 @@ However, a toll bridge, with a two way toll, between the two cities causes drive
 Ultimate Technologies Inc. would like to use these datasets to understand what factors are the best predictors for rider retention, and offer suggestions to operationalize those insights to help Ultimate. To do so, sample data from driver partners (a.k.a. taxi drivers, Uber drivers, etc.) are used to understand the behavior of the riders they transport.
 
 ## Contents
-* **Challenge Overview:** a pdf document detailing the scope of the challenge and the questions proposed by Ultimate Technologies Inc. for a Data Scientist to answer.
+* **Challenge Overview:** a PDF document detailing the scope of the challenge and the questions proposed by Ultimate Technologies Inc. for a Data Scientist to answer.
 * **CaseStudy.ipynb:** a file containing the Python code for this challenge. The file includes the following sections: Exploratory Data Analysis, Experiment and Metrics Design, Predictive Modeling, and Summary.
 *  **Data:** a folder containing two datasets in JSON format.
     * **logins.json:** a file containing (simulated) timestamps of user logins in a particular geographic location. 
