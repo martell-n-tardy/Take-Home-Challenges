@@ -3,7 +3,7 @@ In this challeneg data from Relax Inc. is used to identify which factors predict
 
 ## Contents
 * **Relax Challenge Overview:** a PDF document detailing the scope of the challenge and the goal proposed by Relax Inc. for a Data Scientist to achieve.
-* **Relax,Inc.ipynb:** a file containing the Python code for this challenge. The file includes the following sections: Exploratory Data Analysis, Experiment and Metrics Design, Predictive Modeling, and Summary.
+* **Relax,Inc.ipynb:** a file containing the Python code for this challenge. The file includes the following sections: Data Wrangling, Exploratory Data Analysis, Feature Selection and Encoding, Modeling, and Summary.
 *  **Data:** a folder containing two datasets in CSV format.
     * **takehome_user_engagement.csv:** a usage summary table containing a row for each day that a user logged into the company product.
     * **takehome_users.csv:** a user table containing data on 12,000 users who signed up for the company product in the last two years.
