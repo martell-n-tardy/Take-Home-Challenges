@@ -6,23 +6,7 @@ However, a toll bridge, with a two way toll, between the two cities causes drive
 Ultimate Technologies Inc. would like to use these datasets to understand what factors are the best predictors for rider retention, and offer suggestions to operationalize those insights to help Ultimate. To do so, sample data from driver partners (a.k.a. taxi drivers, Uber drivers, etc.) are used to understand the behavior of the riders they transport.
 
 ## Contents
-* **CaseStudy.ipynb:** a file containing the Python code for this challenge. The file includes the following sections: Exploratory Data Analysis, Experiment and Metrics Design, Predictive Modeling, and Summary. An overview of each of these sections can be found below as well.
+* **CaseStudy.ipynb:** a file containing the Python code for this challenge. The file includes the following sections: Exploratory Data Analysis, Experiment and Metrics Design, Predictive Modeling, and Summary.
 *  **Data:** a folder containing two datasets in JSON format.
     * **logins.json:** a file containing (simulated) timestamps of user logins in a particular geographic location. 
     * **ultimate_data_challenge.json:** a sample dataset containing trip information from drivers who volunteered to participate in Ultimate Technologies Inc. reimbursement program.
-
-## Challenge Overview
-### **Part 1: Exploratory Data Analysis**
-   * Demand is greatest in the month of March and specifically during the week between 11am and 12pm and then again between 10pm to midnight. 
-   * Demand Monday through Friday at its lowest activity around 7am. 
-   * Saturday and Sunday have a different trend of demand with peak activity at 4am and then again after 11pm. 
-   * Monday overall has the lowest activity with Friday through Sunday with the highest, especially Saturday.
-
-### **Part 2: Experiment and Metrics Design**
-
-
-### **Part 3: Predictive Modeling**
-
-
-### **Part 4: Summary**
-
